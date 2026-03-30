@@ -17,3 +17,5 @@
 from .config import RobotConfig
 from .robot import Robot
 from .utils import make_robot_from_config
+from . import lerobot_robot_ned2_ros2
+
